@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+}
+
+.para {
+    color: red;
+    font-family:"fantasy";
+    text-align: center;
+    font-size: 2em;
+}
+
+#unique {
+    color: black;
+    font-family:"Herculanum";
+}
+
+h1 {
+    font-family: "Sans-serif";
+    color:blue;
+    border: solid green 10px;
+    background-color: black;
+}
+
+h2 {
+    font-family:"Sans-serif";
+    color:blue;
+}
+
+img {
+    height: 400px;
+    width: 700px;
+    border: 10px solid gray;
+    padding: 30px 30px 30px 30px
+}
+
+div {
+    width:700px;
+    text-align: center;
+    margin: 100px 150px 100px 350px;
+}
